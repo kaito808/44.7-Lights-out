@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  height: 100vh; /* Make sure the container takes up the full viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered {
+  text-align: left; /* Reset text alignment inside the centered container */
+}
